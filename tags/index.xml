@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vingsegel</title>
-    <link>http://www.example.com/tags/</link>
+    <link>http://vingsegel.github.io/tags/</link>
     <description>Recent content in Tags on Vingsegel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-SE</language>
@@ -10,7 +10,7 @@
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2017 Vingsegel.</copyright>
     
-	<atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vingsegel.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
