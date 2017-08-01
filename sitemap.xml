@@ -1,31 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://vingsegel.github.io/2014/06/08/fj%C3%A4rrstyrning-med-arduino/</loc>
-    <lastmod>2014-06-08T20:28:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vingsegel.github.io/post/</loc>
-    <lastmod>2014-06-08T20:28:47+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vingsegel.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vingsegel.github.io/topics/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vingsegel.github.io/</loc>
-    <lastmod>2014-06-08T20:28:47+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://vingsegel.github.io/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://vingsegel.github.io/sv/sitemap.xml</loc>
+		
+	   	<lastmod>2014-06-08T20:28:47+00:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>
