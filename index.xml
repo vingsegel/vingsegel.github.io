@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Min blog</title>
+    <title>Vingsegel.se</title>
     <link>https://vingsegel.github.io/</link>
-    <description>Recent content on Min blog</description>
+    <description>Recent content on Vingsegel.se</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
-    <copyright>(c) 2016 Alla rättigheter</copyright>
+    <managingEditor>ulf.e.sv@gmail.com (Ulf Sv)</managingEditor>
+    <webMaster>ulf.e.sv@gmail.com (Ulf Sv)</webMaster>
+    <copyright>(c) 2017 Alla rättigheter</copyright>
     <lastBuildDate>Sun, 08 Jun 2014 20:28:47 +0000</lastBuildDate>
     
 	<atom:link href="https://vingsegel.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <title>FJÄRRSTYRNING MED ARDUINO</title>
       <link>https://vingsegel.github.io/2014/06/08/fj%C3%A4rrstyrning-med-arduino/</link>
       <pubDate>Sun, 08 Jun 2014 20:28:47 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      <author>ulf.e.sv@gmail.com (Ulf Sv)</author>
       <guid>https://vingsegel.github.io/2014/06/08/fj%C3%A4rrstyrning-med-arduino/</guid>
       <description>I dag köpte vi in det mesta som behövs för fjärrstyrning av trim-vingen. Vi hade en imaginär inköpslista som vi hade memorerat och gick till Kjell &amp;amp; Company med den.
 Med oss därifrån till en kostnad av 739 SEK ink. moms fick vi:
